@@ -1,3 +1,4 @@
+//THIS IS A COMMENT
 var db = require('../config');
 var crypto = require('crypto');
 
